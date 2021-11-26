@@ -15,3 +15,6 @@ Para usar as opções que foram salvas é só usar seu código como no exemplo a
 
 <pre>$option = get_option('nome_da_opcao');
 echo $option;</pre>
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/53706467/143643206-e1add97a-78d1-4981-bbab-f26172daa67b.png)
