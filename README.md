@@ -13,5 +13,5 @@ Criando uma nova tab de opções dentro das configurações do WooCommerce.
 Para usar as opções que foram salvas é só usar seu código como no exemplo abaixo.</p>
 
 
-<code>$option = get_option('nome_da_opcao');</code><br>
-<code>echo $option;</code>
+<pre>$option = get_option('nome_da_opcao');
+echo $option;</pre>
