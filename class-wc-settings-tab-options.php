@@ -89,6 +89,7 @@ class WC_Settings_Tab_Meu_Plugin {
                 'name'        => 'Label da opção 02',
                 'type'        => 'select',
                 'id'          => 'option_02',
+                'class'       => 'wc-enhanced-select',
                 'desc'        => '',
                 'desc_tip'    => '',
                 'options'     => [
@@ -101,6 +102,7 @@ class WC_Settings_Tab_Meu_Plugin {
                 'name'        => 'Label da opção 03',
                 'type'        => 'select',
                 'id'          => 'option_03',
+                'class'       => 'wc-enhanced-select',
                 'desc'        => '',
                 'desc_tip'    => '',
                 'options'     => self::get_pages(),
